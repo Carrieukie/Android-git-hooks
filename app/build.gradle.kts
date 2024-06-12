@@ -25,11 +25,11 @@ ktlint {
 }
 
 android {
-    namespace = "com.dlight.git_hooks"
+    namespace = "com.dlight.githooks"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.dlight.git_hooks"
+        applicationId = "com.dlight.githooks"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
