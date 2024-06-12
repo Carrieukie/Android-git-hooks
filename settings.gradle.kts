@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "git-hooks"
+rootProject.name = "Android git-hooks"
 include(":app")
  
